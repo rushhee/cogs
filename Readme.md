@@ -9,6 +9,9 @@ ______  _   _  _____  _   _  _____   _____  _____  _____  _____
 \_| \_| \___/ \____/ \_| |_/\____/   \____/ \___/  \____/\____/ 
                                                                                            
 ```
+# WARNING
+
+You will need to edit IDs / local links / bot token in each cog, meaning you cant directly pull and start using hence why you found this in unapproved cogs section
 
 # Install
 
