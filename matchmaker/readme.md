@@ -15,7 +15,7 @@
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [rushhee/cogs/matchmaker](https://github.com/rushhee/cogs/tree/main/matchmaker) <br>
+Project Link: [rushhee/cogs/matchmaker](https://github.com/rushhee/matchmaker/issues) <br>
 Discord: [paz#7737](https://discord.gg/GET4DVk)
 
 ## Edits
@@ -31,7 +31,7 @@ Must make sure you edit the channelIDs & roleID in team.py <br>
 
 ## Additions
 
-Going to add elo etc in the future probs
+Going to add elo / rankings soon
 
 ## Thanks
 
@@ -40,8 +40,8 @@ To scorch120
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[issues-shield]: https://img.shields.io/github/issues/rushhee/cogs.svg?style=for-the-badge
-[issues-url]: https://github.com/rushhee/cogs/issues
+[issues-shield]: https://img.shields.io/github/issues/rushhee/matchmaker.svg?style=for-the-badge
+[issues-url]: https://github.com/rushhee/matchmaker/issues
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
