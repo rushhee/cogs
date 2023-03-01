@@ -1,0 +1,7 @@
+{
+    "AUTHOR" : "Rushe / scorch123",
+    "INSTALL_MSG" : "Thanks for installing! If you need help reach out: paz#0737 / maybe in the 3rd party cogs disc? -- Please make sure that you have input your channelIDs and roleID in team.py",
+    "NAME" : "Matchmaker",
+    "SHORT" : "Custom matchmaker via discord.",
+    "DESCRIPTION" : "Queue up privately against other people with this COG"
+}

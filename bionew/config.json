@@ -1,0 +1,94 @@
+{
+    "biofields":
+        {
+            "Factions":{
+                "question":"**Choose your team/s:** `Team A` :detective: / `Team B` :fire: / `Team C` :man_factory_worker: / `Team D` :man_firefighter_tone2:,
+                "emojis":[
+                    {
+                        "name":"Team A",
+                        "emoji":"\uD83D\uDD75"
+                    },
+                    {
+                        "name":"Team B",
+                        "emoji":"\uD83D\uDD25"
+                    },
+                    {
+                        "name":"Team C",
+                        "emoji":"\uD83D\uDC68\u200D\uD83C\uDFED"
+                    },
+                    {
+                        "name":"Team D",
+                        "emoji":"\uD83D\uDC68\uD83C\uDFFC\u200D\uD83D\uDE92"
+                    }
+            ]
+            },
+            "Role": {
+                "question":"**Choose your XYZ:** `X` :blue_circle: / `Y` :black_circle: / `Z` :white_circle: ",
+                "emojis":[
+                    {
+                        "name":"X",
+                        "emoji":"\uD83D\uDD35"
+                    },
+                    {
+                        "name":"Y",
+                        "emoji":"\u26AB"
+                    },
+                    {
+                        "name":"Z",
+                        "emoji":"\u26AA"
+                    }
+            ]
+            }
+            "Language": {
+                "question":"**Choose your nation:** :flag_us: :flag_gb: :flag_au: = :zero: / :flag_eg: :flag_dz: :flag_sd: = :one: / :flag_es: = :two: / :flag_fr: = :three: / :flag_ru: = :four: / :flag_jp: = :five: / :flag_de: = :six: / :flag_cn: = :seven: / :flag_tr: = :eight: / :flag_kr: = :nine: / Other = :keycap_ten:",
+                "emojis":[
+                    {
+                        "name":"English",
+                        "emoji":"\u0030\u20E3"
+                    },
+                    {
+                        "name":"Arabic",
+                        "emoji":"\u0031\u20E3" 
+                    },
+                    {
+                        "name":"Spanish",
+                        "emoji":"\u0032\u20E3"
+                    },
+                    {
+                        "name":"French",
+                        "emoji":"\u0033\u20E3"
+                    },
+                    {
+                        "name":"Russian",
+                        "emoji":"\u0034\u20E3"
+                    },
+                    {
+                        "name":"Japanese",
+                        "emoji":"\u0035\u20E3"
+                    },
+                    {
+                        "name":"German",
+                        "emoji":"\u0036\u20E3"
+                    },
+                    {
+                        "name":"Chinese",
+                        "emoji":"\u0037\u20E3"
+                    },
+                    {
+                        "name":"Turkish",
+                        "emoji":"\u0038\u20E3"
+                    },
+                    {
+                        "name":"Korean",
+                        "emoji":"\u0039\u20E3"
+                    },
+                    {
+                        "name":"Other",
+                        "emoji":"\uD83D\uDD1F"
+                    }
+                ]
+            }
+            
+        }
+    
+}
