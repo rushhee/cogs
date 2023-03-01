@@ -8,16 +8,16 @@
   <p align="center">
     based off <a href="https://gitlab.com/CrunchBangDev/cbd-cogs/-/tree/master/Bio">CBD's bio cog</a>
     ·
-    <a href="https://github.com/rushhee/bionew/issues">Report Bug</a>
+    <a href="https://github.com/rushhee/cogs/issues">Report Bug</a>
     ·
-    <a href="https://github.com/rushhee/bionew/issues">Request Feature</a>
+    <a href="https://github.com/rushhee/cogs/issues">Request Feature</a>
   </p>
 </div>
 
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [rushhee/bionew](https://github.com/rushhee/bionew/issues) <br>
+Project Link: [rushhee/cogs/bionew](https://github.com/rushhee/cogs/tree/main/bionew) <br>
 Discord: [paz#7737](https://discord.gg/GET4DVk)
 
 ## Edits
@@ -40,8 +40,8 @@ Going to add custom text fields soon when im not lazy
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[issues-shield]: https://img.shields.io/github/issues/rushhee/bionew.svg?style=for-the-badge
-[issues-url]: https://github.com/rushhee/bionew/issues
+[issues-shield]: https://img.shields.io/github/issues/rushhee/cogs.svg?style=for-the-badge
+[issues-url]: https://github.com/rushhee/cogs/issues
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
