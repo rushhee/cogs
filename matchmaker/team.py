@@ -5,17 +5,17 @@ from discord.ext import commands
 from discord.ext.commands import bot
 from redbot.core import commands
 
-
+# Will be removing voiceID setup requirement in future
 
 class MyTeam(commands.Cog):
     
     def __init__(self, bot):
         self.bot = bot 
-        self.reqReadyUsers = 4 # make sure it's even
+        self.reqReadyUsers = 8 # make sure it's even
         self.team1ChannelId = 1078096640348520499 # a channelID
         self.team2ChannelId = 1078096668811083777 # a 2nd channelID
         self.setupChannelId = 1078092747937943642 # a 3rd channelID
-        self.csRoleID = 1078092819316604998 # role required to use the commands this cog
+        self.csRoleID = 1078092819316604998 # role required to use the commands from this cog
         self.description=f'A bot for organizing {self.reqReadyUsers} man pugs/scrims for various {self.reqReadyUsers/2}v{self.reqReadyUsers/2} competitive games.'
 
         self.ourServer = None
