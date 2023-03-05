@@ -7,12 +7,8 @@ ______  _   _  _____  _   _  _____   _____  _____  _____  _____
 |    / | | | | `--. \|  _  ||  __|  | |    | | | || | __  `--. \
 | |\ \ | |_| |/\__/ /| | | || |___  | \__/\\ \_/ /| |_\ \/\__/ /
 \_| \_| \___/ \____/ \_| |_/\____/   \____/ \___/  \____/\____/ 
-                                                                                           
 ```
-# WARNING
-
-You will need to edit IDs / local links / bot token in each cog, meaning you cant directly pull and start using hence why you found this in unapproved cogs section
-
+                                                                                           
 # Install
 
 ```
@@ -40,6 +36,10 @@ Generate a customizable player / persons bio based on predetermined fields.
 ## Matchmaker
 
 Privately queue with other people and form custom teams with customs for any game you want. (PUGs)
+
+# WARNING
+
+You will need to edit the file to add your own channelIDs & team size (default is 4v4). Will change this in the future.
 
 ### Commands
 
