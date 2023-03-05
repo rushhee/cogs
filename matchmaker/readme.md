@@ -21,6 +21,7 @@ Discord: [paz#7737](https://discord.gg/GET4DVk)
 ## Edits
 
 Must make sure you edit the channelIDs & roleID in team.py <br>
+If you want a different team size edit team.py
 
 ## Use
 
