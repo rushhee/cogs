@@ -1,6 +1,5 @@
 import asyncio
 import discord
-token = 'YOUR TOKEN HERE'
 import random
 from discord.ext import commands
 from discord.ext.commands import bot
