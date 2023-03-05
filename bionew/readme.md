@@ -22,9 +22,7 @@ Discord: [paz#7737](https://discord.gg/GET4DVk)
 
 ## Edits
 
-Add your bots disc token in bio.py
-
-Must may have to edit the file path of line 14 and 15 in bio.py <br>
+You may have to edit the file path of line 14 and 15 in bio.py if it doesnt instantly work from pulling <br>
 *self.config_file* <br>
 *self.users_file*
 
